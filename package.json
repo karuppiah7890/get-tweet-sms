@@ -12,5 +12,9 @@
     "twitter-api"
   ],
   "author": "Karuppiah N <karuppiah7890@gmail.com>",
-  "license": "MIT"
+  "license": "MIT",
+  "dependencies": {
+    "twilio": "^3.0.0",
+    "twit": "^2.2.5"
+  }
 }
