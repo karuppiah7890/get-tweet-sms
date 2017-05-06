@@ -1,0 +1,16 @@
+{
+  "name": "get-tweet-sms",
+  "version": "0.0.1",
+  "description": "Get a SMS when someone tweets to you, mentions you, follows you",
+  "main": "bot.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "twitter-bot",
+    "sms",
+    "twitter-api"
+  ],
+  "author": "Karuppiah N <karuppiah7890@gmail.com>",
+  "license": "MIT"
+}
